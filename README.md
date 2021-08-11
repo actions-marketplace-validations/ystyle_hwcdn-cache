@@ -13,7 +13,7 @@ github action for fresh huawei cloud CDN cache.
 
 ## Example usage
 ```yaml
-uses: actions/hello-world-docker-action@v1
+uses: ystyle/hwcdn-cache@master
 env:
   ACCESS_KEY_ID: id...
   SECRET_ACCESS_KEY: key...
