@@ -1,6 +1,6 @@
-# Fresh Huawei Cloud CDN Cache
+# Refresh Huawei Cloud CDN Cache
 
-github action for fresh huawei cloud CDN cache.
+github action for refresh huawei cloud CDN cache.
 
 ## env
 - `ACCESS_KEY_ID` ak
