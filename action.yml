@@ -1,6 +1,6 @@
 # action.yml
-name: 'Fresh Huawei Cloud CDN Cache'
-description: 'Fresh Huawei Cloud CDN Cache'
+name: 'Refresh Huawei Cloud CDN Cache'
+description: 'Refresh Huawei Cloud CDN Cache'
 outputs:
   log:
     description: 'the operation result'
